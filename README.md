@@ -12,6 +12,7 @@
 - [Data Cleaning / Preparation](#Data-Cleaning-Preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Results/Findings](#Results-Findings)
+- [Recommendations](#Recommendations)
   
 <br>
 <br>
