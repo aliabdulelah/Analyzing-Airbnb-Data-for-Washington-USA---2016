@@ -118,14 +118,14 @@ As you can see, the distinct count of listings decreases as the number of bedroo
 ### Recommendations
 Based on the analysis, we recommend the following actions:
 
-- Invest in a property in a popular tourist destination. Zip code 98146 has the highest average price per day, suggesting that there is strong demand for rental accommodations in this area.
+1- Invest in a property in a popular tourist destination. Zip code 98146 has the highest average price per day, suggesting that there is strong demand for rental accommodations in this area.
 Consider investing in a property with multiple bedrooms.
 
-- The average price per bedroom increases as the number of bedrooms increases, suggesting that there is more demand for larger properties.
+2- The average price per bedroom increases as the number of bedrooms increases, suggesting that there is more demand for larger properties.
 Set your prices competitively.
 
-- The distinct count of listings decreases as the number of bedrooms increases, suggesting that there is less competition in the market for larger properties. You may be able to charge a higher price per night for a 3 bedroom property than for a 1 bedroom property.
+3- The distinct count of listings decreases as the number of bedrooms increases, suggesting that there is less competition in the market for larger properties. You may be able to charge a higher price per night for a 3 bedroom property than for a 1 bedroom property.
   
-- Monitor the market closely. The revenue line chart shows that there can be fluctuations in revenue throughout the year. It is important to monitor the market closely to identify any potential problems and take corrective action if necessary.
+4- Monitor the market closely. The revenue line chart shows that there can be fluctuations in revenue throughout the year. It is important to monitor the market closely to identify any potential problems and take corrective action if necessary.
 
 
