@@ -32,7 +32,7 @@ Airbnb Data: the primary dataset used for this analysis is the “Tableau Full P
 
 ## Tools 
 - Tableau - Data Cleaning
-   - - [Download here](https://docs.google.com/spreadsheets/d/1EseK1rMmbfdWlVWw4rEF_j3Iuy7lm5Nb/edit?usp=sharing&ouid=105386622502646294985&rtpof=true&sd=true)
+   - - [Download here](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset/code)
   
 - Tableau - Data Analysis
 
