@@ -2,7 +2,8 @@
 
 ![Airbnb Visualisation ](https://github.com/aliabdulelah/Analyzing-Airbnb-Data-for-Washington-USA---2016/assets/129835709/79f8378c-8307-41cb-98f0-6cea7be27adc)
 
-
+<br>
+<br>
 
 ## Table of contents 
 - [Project Overview](#project-Overview)
@@ -11,23 +12,31 @@
 - [Data Cleaning / Preparation](#Data-Cleaning-Preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Results/Findings](#Results-Findings)
-
+  
+<br>
+<br>
 
 ## Project Overview
 
 This project involves analyzing Airbnb data for Washington, USA in 2016 to identify the best investment locations based on revenue and competition by the number of bedrooms. The dataset will be cleaned and preprocessed, and additional features will be created for analysis. Geographical analysis will be performed to determine optimal locations, and revenue and competition will be analyzed. Data visualization will be used to present findings, and recommendations will be provided to the client.
 
+<br>
+<be>
 
 ###  Data Source
 Airbnb Data: the primary dataset used for this analysis is the “Tableau Full Project.xlsx” file, containing detailed information about the places in 2016 with reviews and calendars of Washington, USA.
 
+<br>
+<be>
 
 ## Tools 
 - Tableau - Data Cleaning
-   - - [Download here]([https://docs.google.com/spreadsheets/d/1n_zkpd_ejAqG5APHvrkp8wVMdNnjwqY-DKZMPyfcVQs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EseK1rMmbfdWlVWw4rEF_j3Iuy7lm5Nb/edit?usp=sharing&ouid=105386622502646294985&rtpof=true&sd=true))
+   - - [Download here](https://docs.google.com/spreadsheets/d/1n_zkpd_ejAqG5APHvrkp8wVMdNnjwqY-DKZMPyfcVQs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EseK1rMmbfdWlVWw4rEF_j3Iuy7lm5Nb/edit?usp=sharing&ouid=105386622502646294985&rtpof=true&sd=true))
   
 - Tableau - Data Analysis
 
+<br>
+<be>
 
 ### Data Cleaning Preparation 
 
@@ -45,8 +54,11 @@ Airbnb Data: the primary dataset used for this analysis is the “Tableau Full P
  EDA involves exploring the claims data to answer key questions, such as:
 
 1- The average price for each Zipcode (Chart + Map)
+
 2- The revenue over the year 
+
 3- The average price by of bedrooms
+
 4- The Distinct Count  of Bedroom Listings
 
 
@@ -66,20 +78,27 @@ The state of Washington zipcode 98146 has the highest average price of $157.04 p
 
 <img width="1131" alt="Screenshot 2023-10-28 at 10 55 49 AM" src="https://github.com/aliabdulelah/Analyzing-Airbnb-Data-for-Washington-USA---2016/assets/129835709/8c361acf-668e-4d69-940a-7bac73da575a">
 
-
+<br>
+<br>
 
 2- The revenue over the year 
 
 Overall, the revenue line chart shows a positive trend, with revenue increasing steadily over the year. The highest revenue was generated in week 26, with revenue reaching $46,403,002. There was a slight dip in revenue in week 38, but revenue quickly recovered and continued to grow for the remainder of the year. The positive trend in revenue suggests that the business is growing and healthy. The slight dip in revenue in week 38 could be due to a number of factors, such as a seasonal decline in tourism,It is important to monitor the revenue trend closely to identify any potential problems and take corrective action if necessary.
+<br>
 
 <img width="1133" alt="revenue over the year " src="https://github.com/aliabdulelah/Analyzing-Airbnb-Data-for-Washington-USA---2016/assets/129835709/bc9706ce-141f-4064-bf6a-8dbde9f661c9">
 
+<br>
+<be>
 
 3- The average price by of bedrooms
 Overall, the average price per bedroom increases as the number of bedrooms increases. The average price per bedroom for a 1-bedroom home is $500, while the average price per bedroom for a 3-bedroom home is $750. The average price per bedroom for a 4-bedroom home is $1,000, but there is a significant range in prices, depending on the size and location of the home.
 
 
 <img width="1136" alt="avg price of bedrooms" src="https://github.com/aliabdulelah/Analyzing-Airbnb-Data-for-Washington-USA---2016/assets/129835709/e968e6b6-84bf-4b81-9734-1246dcee3655">
+
+<br>
+<be>
 
 4- The Distinct Count  of Bedroom Listings
 
@@ -92,6 +111,8 @@ This suggests that there is more competition in the market for 3 bedroom homes t
 
 As you can see, the distinct count of listings decreases as the number of bedrooms increases. This is because there is less demand for homes with more bedrooms.
 
+<br>
+<br>
 
 ### Recommendations
 Based on the analysis, we recommend the following actions:
