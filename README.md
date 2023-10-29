@@ -1,4 +1,4 @@
-# Analyzing-Airbnb-Data-for-Washington-USA---2016
+# Dashboard-Airbnb-Data-for-Washington-USA---2016
 
 ![Airbnb Visualisation ](https://github.com/aliabdulelah/Analyzing-Airbnb-Data-for-Washington-USA---2016/assets/129835709/79f8378c-8307-41cb-98f0-6cea7be27adc)
 
@@ -19,7 +19,7 @@
 
 ## Project Overview
 
-This project involves analyzing Airbnb data for Washington, USA in 2016 to identify the best investment locations based on revenue and competition by the number of bedrooms. The dataset will be cleaned and preprocessed, and additional features will be created for analysis. Geographical analysis will be performed to determine optimal locations, and revenue and competition will be analyzed. Data visualization will be used to present findings, and recommendations will be provided to the client.
+This project involves analyzing Airbnb data for Washington, USA in 2016 to identify the best investment locations based on revenue and competition by the number of bedrooms. The dataset will be cleaned and preprocessed, and additional features will be created for analysis. Geographical analysis will be performed to determine optimal locations, and revenue and competition will be analyzed. Data visualization will be used to present findings and create a Dashboard, and recommendations will be provided to the client.
 
 <br>
 <be>
