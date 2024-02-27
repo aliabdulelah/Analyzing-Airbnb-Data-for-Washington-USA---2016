@@ -1,6 +1,6 @@
 # Dashboard-Airbnb-Data-for-Washington-USA---2016
 
-![Airbnb Visualisation ](https://github.com/aliabdulelah/Analyzing-Airbnb-Data-for-Washington-USA---2016/assets/129835709/79f8378c-8307-41cb-98f0-6cea7be27adc)
+![booking](https://github.com/aliabdulelah/DASHBOARD-AIRBNB-FOR-WASHINGTON-USA-2016/assets/129835709/317592e1-f9e0-4709-9656-4eac7bcc34fa)
 
 <br>
 <br>
@@ -61,6 +61,9 @@ Airbnb Data: the primary dataset used for this analysis is the “Tableau Full P
 3- The average price by of bedrooms
 
 4- The Distinct Count  of Bedroom Listings
+
+
+![Airbnb Visualisation ](https://github.com/aliabdulelah/Analyzing-Airbnb-Data-for-Washington-USA---2016/assets/129835709/79f8378c-8307-41cb-98f0-6cea7be27adc)
 
 
 ### Results Findings
